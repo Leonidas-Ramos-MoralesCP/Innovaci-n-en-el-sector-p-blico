@@ -38,7 +38,7 @@ Bienvenidos.
 
 Una de las primeras ideas que se trabajan en este curso —y que merece ser dicha con claridad desde el inicio— es la siguiente: **el objetivo de la innovación no es cumplir tareas o reglas**. Tampoco es mejorar marginalmente un proceso ya establecido. Y definitivamente no es instalar una app y llamar a eso transformación digital.
 
-La innovación en el sector público se refiere a la implementación de ideas, procesos, tecnologías o servicios nuevos o significativamente mejorados resolver problemas públicos y aumentar el valor público. A diferencia del sector privado, la innovación pública debe considerar el impacto social y el bien común, implicando adaptaciones constantes a las demandas ciudadanas y al contexto legal y político.
+La innovación en el sector público se refiere a la implementación de ideas, procesos, tecnologías o servicios nuevos o significativamente mejorados para resolver problemas públicos y aumentar el valor público. A diferencia del sector privado, la innovación pública debe considerar el impacto social y el bien común, implicando adaptaciones constantes a las demandas ciudadanas y al contexto legal y político.
 
 Pero antes de llegar a qué es innovar, necesitamos entender el entorno en que esa innovación ocurre: la gobernanza.
 

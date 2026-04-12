@@ -1,6 +1,6 @@
 # Innovación en el Sector Público: Design Thinking, Lean Startup y Scrum
 ### Caso aplicado: **QuimoBike en el INEN**
-Dr. Leonidas Lucas Ramos Morales
+##Dr. Leonidas Lucas Ramos Morales
 
 ---
 

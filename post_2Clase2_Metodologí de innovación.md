@@ -1,6 +1,6 @@
 # Innovación en el Sector Público: Design Thinking, Lean Startup y Scrum
 ### Caso aplicado: **QuimoBike en el INEN**
-*Curso 1GOB39 — Maestría en Gobierno y Políticas Públicas / Ciencia Política y Gestión Pública — PUCP*
+Dr. Leonidas Lucas Ramos Morales
 
 ---
 

@@ -1,7 +1,8 @@
 # Innovación en el Sector Público
 
 > **Serie de posts sobre gobernanza, innovación pública y gestión del Estado — 2026**
-Dr. Leonidas Lucas Ramos Morales
+
+#Dr. Leonidas Lucas Ramos Morales
 ---
 
 ## Sobre esta serie

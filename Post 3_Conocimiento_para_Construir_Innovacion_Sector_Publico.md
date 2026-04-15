@@ -1,5 +1,6 @@
 # Conocimiento para construir Innovación en el Sector Público
 
+## Dr. Leonidas Ramos Morales
 ## Introducción
 
 La innovación en el sector público no surge simplemente de ideas imaginadas en nuestras cabezas, ni tampoco solo porque hemos escuchado al ciudadano plantear sus problemas. Aunque escuchar a la ciudadanía es bueno, es necesario contar con una serie de estrategias metodológicas y de conocimientos científicos para dar la mejor interpretación posible a nuestros resultados de investigación, a la información recolectada, y, especialmente, al momento de diseñar nuestras innovaciones.

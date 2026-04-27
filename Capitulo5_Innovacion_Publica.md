@@ -391,7 +391,7 @@ Aquí se presenta un mapa parlante como ejemplo:
 
 A continuación se presenta un mapa parlante sobre el proceso de denuncia de un adulto mayor desde que salió de su hogar hasta que fue a la comisaría.
 
-![](image14.jpeg)
+![](image14.png)
 
 ### Enfoques Cuantitativos y Espaciales
 

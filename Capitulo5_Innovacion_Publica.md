@@ -64,6 +64,7 @@ Se recomienda acompañar los indicadores con gráficos o tablas de data visualiz
 
 **Ejemplo 1: Tendencia de Delitos Contra el Patrimonio en Perú (2018-2026)**
 ![](media/image1.png)
+image1.png 
 
 **Ejemplo 2: Visualización Comparativa**
 ![](media/image2.png)

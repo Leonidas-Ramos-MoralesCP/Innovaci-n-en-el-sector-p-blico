@@ -1,27 +1,11 @@
 # Capítulo 5: Medición y Caracterización del Problema Público
 
-## Innovación en el Sector Público
-
----
-
-### Tabla de Contenidos
-
-1. **5.1** - Medición y caracterización del problema público
-2. **5.2** - La medición del problema público (Indicadores)
-3. **5.3** - Caracterización del problema público
-   - Voces de actores involucrados
-   - Redes de actores
-   - Mapeo de procesos
-   - Journey Maps
-   - Mapas parlantes
-
----
 
 ## 5.1. La Medición y Caracterización del Problema Público
 
 En esta sección se presentan los productos que deben presentarse para demostrar la existencia del problema público. La semana pasada el reto fue la determinación e iteración de la denominación del problema público. Esta semana el reto es medir la magnitud del problema y caracterizar sus dimensiones.
 
-Antes de proceder con la medición es necesario definir los conceptos más importantes que involucran al problema público. Por ejemplo, tienes el problema público "Alta Tasa de denuncias por el delito contra el patrimonio por cada mil habitantes en la ciudad de Trujillo", en ese sentido hay que recurrir a ramas como la criminología, derecho, sociología criminal o antropología criminal para definir qué se entiende por "delito", "delitos contra el patrimonio" y "denuncias".
+Antes de proceder con la medición es necesario definir los conceptos más importantes que involucran al problema público. Por ejemplo, tienes el problema público "Alta Tasa de denuncias por el delito contra el patrimonio por cada mil habitantes en la ciudad de Trujillo", en ese sentido hay que recurrir a ramas como la criminología, derecho, sociología criminal o antropología criminal para definir qué se entiende por "delito", "delitos contra el patrimonio" y "denuncias". Es un asunto que deben realizar antes de medir el problema público. 
 
 **Es fundamental que los grupos levanten información trazable, sistemática y confiable para el desarrollo de la medición y la caracterización.**
 
@@ -41,17 +25,17 @@ Por lo general, los indicadores son fáciles de recopilar, altamente relacionado
 
 Un indicador debe cumplir con tres características fundamentales:
 
-**1. Simplificación:** La realidad en la que se actúa es multidimensional. Un indicador puede considerar alguna de tales dimensiones (económica, social, cultural, política, etc.), pero no puede abarcarlas todas.
+**1. Simplificación:** La realidad en la que se actúa es multidimensional. Un indicador puede considerar alguna de tales dimensiones, pero no puede abarcarlas todas.
 
 **2. Medición:** Permite comparar la situación actual de una dimensión de estudio en el tiempo o respecto a patrones establecidos.
 
-**3. Comunicación:** Todo indicador debe transmitir información acerca de un tema en particular para la toma de decisiones.
+**3. Comunicación:** Todo indicador debe transmitir información acerca de un tema en particular para la toma de decisiones, en uestro caso del problema público.
 
 > **Referencia:** [DANE - Guía de construcción e interpretación de indicadores](https://www.dane.gov.co/files/planificacion/fortalecimiento/cuadernillo/Guia_construccion_interpretacion_indicadores.pdf)
 
 ### El Reto: Seleccionar el Indicador Correcto
 
-El reto se encuentra en identificar el indicador o los indicadores que mejor representan al problema público. Potencialmente pueden encontrar tres o cuatro opciones. Es necesario discutir cuál de ellos mejor representa el problema.
+El reto se encuentra en identificar el indicador o los indicadores que mejor representan al problema público que hemos seleccionado. Potencialmente pueden encontrar tres o cuatro opciones. Es necesario discutir en grupo cuál de ellos mejor representa el problema.
 
 #### Ejemplos de Indicadores por Sector
 
@@ -110,6 +94,12 @@ Los problemas públicos no solo deben ser caracterizados a través de sus indica
 
 En las siguientes secciones presentamos **cinco artefactos de caracterización de los problemas públicos**. La idea es que analices cuál de ellos te sirve. Se solicita que utilices **al menos tres de ellos** en la presentación de tu trabajo parcial.
 
+1. **Storyworld** - Para capturar las voces y narrativas de los actores
+2. **Redes de Actores** - Para comprender las relaciones e influencias
+3. **Mapeo de Procesos** - Para visualizar cómo funcionan los sistemas actuales
+4. **Journey Maps** - Para entender la experiencia del usuario
+5. **Mapas Parlantes** - Para contextualizar territorialmente el problema
+
 > **Nota Importante:** La construcción de estos artefactos implica levantar datos e información en fuentes confiables. Esto también podría realizarse con apoyo del toolbox adjunto.
 
 ---
@@ -155,6 +145,8 @@ Describir la vida cotidiana de las personas para quienes se quiere trabajar una 
 
 ![Storyworld example 1](media/image6.png)
 
+Se presenta las historias de adultos mayores que han denunciado a la policia que familiares suyos han ejercido violencia contra ellos. 
+
 ![Storyworld example 2](media/image7.png)
 
 ---
@@ -173,7 +165,7 @@ Existen varias formas de representar estas redes:
 
 #### ¿Qué es un Mapa de Actores?
 
-El Mapa de Actores representará visualmente las distintas personas que están relacionados con el proyecto y las relaciones que existen entre éstos.
+El Mapa de Actores representará visualmente las distintas personas que están relacionados con el problema y las relaciones que existen entre éstos.
 
 #### Categorización por Nivel de Influencia
 
@@ -340,7 +332,7 @@ La solidez de un mapa del recorrido del usuario depende de su veracidad. Valída
 
 ### Ejemplo: Don Alberto en Comisaría
 
-A continuación se muestra un ejemplo completo que ilustra el journey map detallando los pasos emocionales y procedimentales que Don Alberto experimenta cuando reporta abuso doméstico en la comisaría local de Lima.
+A continuación se muestra un ejemplo completo que ilustra el journey map detallando los pasos emocionales y procedimentales que Don Alberto (un adulto mayor) experimenta cuando reporta abuso doméstico en la comisaría local de Lima.
 
 ![Journey map example](media/image12.png)
 

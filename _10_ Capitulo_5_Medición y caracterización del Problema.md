@@ -103,6 +103,8 @@ En las siguientes secciones presentamos cinco artefactos de caracterización de 
 4. **Journey Maps** - Para entender la experiencia del usuario
 5. **Mapas Parlantes** - Para contextualizar territorialmente el problema
 
+Aquí te dejo las plantillas de estos cinco artefactos para que los puedas visualizar en mejor resolución. Selecciona tres y presenta: https://docs.google.com/document/d/1j3lLvq0rKNPMvRiKlf2LxDN-50B9Fgcl/edit?usp=sharing&ouid=105229555619735522439&rtpof=true&sd=true 
+
 > **Nota Importante:** La construcción de estos artefactos implica levantar datos e información en fuentes confiables. Esto también podría realizarse con apoyo del toolbox adjunto.
 
 ---

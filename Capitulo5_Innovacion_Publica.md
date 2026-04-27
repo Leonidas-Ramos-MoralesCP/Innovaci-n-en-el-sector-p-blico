@@ -66,13 +66,13 @@ Se recomienda acompañar los indicadores con gráficos o tablas de data visualiz
 ![](image1.png)
 
 **Ejemplo 2: Visualización Comparativa**
-![](media/image2.png)
+![](image2.png)
 
 **Ejemplo 3: Desempeño en Educación por Género, Sector y Área (2016-2023)**
-![](media/image3.png)
+![](image3.png)
 
 **Ejemplo 4: Mortalidad Infantil en Perú (2002-2022)**
-![](media/image4.png)
+![](image4.png)
 
 ### Recursos Recomendados
 
@@ -124,7 +124,7 @@ Es ideal para recolectar apreciaciones. Puedes utilizarla al momento de empatiza
 
 Describir la vida cotidiana de las personas para quienes se quiere trabajar una solución es una tarea compleja. Por esta razón, la narración es una gran manera de construir una imagen detallada que facilita contar historias que resulten más fácil de entender.
 
-![](media/image5.png)
+![](image5.png)
 
 ### Pasos Operativos
 
@@ -141,9 +141,9 @@ Describir la vida cotidiana de las personas para quienes se quiere trabajar una 
 
 Se presenta las historias de adultos mayores que han denunciado a la policia que familiares suyos han ejercido violencia contra ellos.
 
-![](media/image6.png)
+![](image6.png)
 
-![](media/image7.png)
+![](image7.png)
 
 ---
 
@@ -172,7 +172,7 @@ De acuerdo a su nivel de influencia con el problema, puedes categorizarlo en niv
 * **Rol Directo:** Están relacionados
 * **Rol Indirecto:** Tienen una relación más lejana
 
-![](media/image8.png)
+![](image8.png)
 
 #### Pasos para Diseñar un Mapa Cualitativo de Actores
 
@@ -189,7 +189,7 @@ De acuerdo a su nivel de influencia con el problema, puedes categorizarlo en niv
 
 A continuación se presenta un mapeo de redes de actores involucrados en un problema público relacionado a personas adultas mayores que se acercan a una comisaría de Lima a denunciar un maltrato físico de un familiar suyo en casa.
 
-![](media/image10.png)
+![](image10.png)
 
 ### Enfoque Cuantitativo: Análisis Formal de Redes
 
@@ -243,7 +243,7 @@ Para más información sobre 6 tipos diferentes de mapeo de procesos, consulte: 
 
 A continuación se presenta un mapeo de procesos relacionado a un proceso de denuncia en una comisaría de Lima por parte de una persona adulta mayor.
 
-![](media/image11.png)
+![](image11.png)
 
 ---
 
@@ -329,7 +329,7 @@ La solidez de un mapa del recorrido del usuario depende de su veracidad. Valída
 
 A continuación se muestra un ejemplo completo que ilustra el journey map detallando los pasos emocionales y procedimentales que Don Alberto (un adulto mayor) experimenta cuando reporta abuso doméstico en la comisaría local de Lima.
 
-![](media/image12.png)
+![](image12.png)
 
 ### Referencia Completa
 
@@ -383,13 +383,13 @@ Este tipo de mapa sirve para que el analista de políticas públicas comprenda:
 
 Aquí se presenta un mapa parlante como ejemplo:
 
-![](media/image13.png)
+![](image13.png)
 
 ### Caso de Estudio: Denuncia de un Adulto Mayor
 
 A continuación se presenta un mapa parlante sobre el proceso de denuncia de un adulto mayor desde que salió de su hogar hasta que fue a la comisaría.
 
-![](media/image14.jpeg)
+![](image14.jpeg)
 
 ### Enfoques Cuantitativos y Espaciales
 

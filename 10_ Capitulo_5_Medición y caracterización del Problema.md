@@ -12,6 +12,8 @@ Es fundamental que los grupos levanten información trazable, sistemática y con
 
 ## 5.2. La Medición del Problema Público
 
+Los problemas públicos se miden a través de indicadores. 
+
 ### ¿Qué es un Indicador?
 
 Un indicador es una medida observable que permite describir características, comportamientos o fenómenos a través de su comparación con períodos anteriores o con metas o compromisos (MEF).

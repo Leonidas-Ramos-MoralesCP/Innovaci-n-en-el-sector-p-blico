@@ -26,7 +26,7 @@ Para que identifiquemos causalidad verdadera, deben cumplirse tres condiciones s
 
 **Referencia:** https://www.ebsco.com/research-starters/religion-and-philosophy/causality
 
-En ese contexto es importante identificar tres elementos de la causalidad: i) demostrar la existencia del evento; ii) demostrar la existencia de la relación conducente; y, iii) demostrar que la causa se sucede antes que el efecto. Son tres actividades que deben realizarse conjuntamente
+En ese contexto es importante identificar los tres elementos de la causalidad: i) demostrar la existencia del evento; ii) demostrar la existencia de la relación conducente; y, iii) demostrar que la causa se sucede antes que el efecto. Son tres actividades que deben realizarse conjuntamente
 
 ![Diagrama: Los tres elementos de la causalidad](imagen1.png)
 

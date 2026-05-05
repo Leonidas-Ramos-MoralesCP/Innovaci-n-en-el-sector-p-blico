@@ -50,7 +50,7 @@ Una distinción crítica al identificar causas es entender si son **necesarias**
 
 ---
 
-### Confusiones Frecuentes al Identificar Causas
+### Errores Frecuentes al Identificar Causas
 
 #### a) Confundir causas con condiciones
 

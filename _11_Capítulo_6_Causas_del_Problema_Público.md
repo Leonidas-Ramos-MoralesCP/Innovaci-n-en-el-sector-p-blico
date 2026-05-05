@@ -26,7 +26,7 @@ Para que identifiquemos causalidad verdadera, deben cumplirse tres condiciones s
 
 **Referencia:** https://www.ebsco.com/research-starters/religion-and-philosophy/causality
 
-![Diagrama: Los tres elementos de la causalidad](media/image1.png)
+![Diagrama: Los tres elementos de la causalidad](imagen1.png)
 
 ### Causas Necesarias y Causas Suficientes
 
@@ -102,7 +102,7 @@ Esta herramienta (adaptación del Laboratorio de Gobierno de Chile) simplifica e
 - ¿Cuál es el efecto directo?
 - ¿Cuál es la causa directa?
 
-![Ejemplo: Diagrama de causa-efecto para educación de baja calidad](media/image2.png)
+![Diagrama: Los tres elementos de la causalidad](imagen2.png)
 
 **Paso a paso:**
 
@@ -113,13 +113,15 @@ Esta herramienta (adaptación del Laboratorio de Gobierno de Chile) simplifica e
 5. **Seleccionar causas** a investigar considerando importancia y factibilidad
 6. **Preparar plan de acción** para cada causa
 
+![Diagrama: Los tres elementos de la causalidad](imagen3.png)
+
 #### Diagrama de Ishikawa
 
 Útil para obtener una perspectiva sistémica del problema. Evita buscar soluciones antes de cuestionarse sobre las verdaderas causas.
 
-![Ejemplo: Diagrama de Ishikawa para inseguridad, limpieza y caos vehicular en Lima](media/image4.png)
+![Ejemplo: Diagrama de Ishikawa para inseguridad, limpieza y caos vehicular en Lima](imagen4.png)
 
-![Diagrama completado sobre inseguridad en Lima](media/image5.png)
+![Diagrama completado sobre inseguridad en Lima](imagen5.png)
 
 ### b) Estrategias Cualitativas
 
@@ -217,7 +219,7 @@ Para este caso (un distrito específico), usa **case study con process tracing**
 
 Representa las causas y sus relaciones usando diagrama de causa-efecto o Ishikawa.
 
-![Diagrama de causas de violencia hacia adultos mayores en Independencia](media/image6.png)
+![Diagrama de causas de violencia hacia adultos mayores en Independencia](imagen6.png)
 
 ---
 

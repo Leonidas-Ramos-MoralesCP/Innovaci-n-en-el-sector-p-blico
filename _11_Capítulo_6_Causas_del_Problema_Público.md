@@ -180,6 +180,8 @@ Con process tracing, reconstruyes cómo cada una de estas causas se conecta con 
 
 **Referencia:** https://www.redalyc.org/pdf/7374/737481065007.pdf
 
+---
+
 ### c) Estrategias con Regresiones
 
 Se aplican cuando tienes **muchos casos** (suficiente variabilidad). Las regresiones identifican correlaciones, pero con cuidados pueden proporcionar evidencia de causalidad.

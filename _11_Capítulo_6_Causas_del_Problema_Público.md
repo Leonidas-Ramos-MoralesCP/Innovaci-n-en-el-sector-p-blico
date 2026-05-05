@@ -30,6 +30,8 @@ En ese contexto es importante identificar los tres elementos de la causalidad: i
 
 ![Diagrama: Los tres elementos de la causalidad](imagen1.png)
 
+---
+
 ### Causas Necesarias y Causas Suficientes
 
 Una distinción crítica al identificar causas es entender si son **necesarias**, **suficientes** o ambas.
@@ -45,6 +47,8 @@ Una distinción crítica al identificar causas es entender si son **necesarias**
 **En problemas públicos**, frecuentemente encontramos **causas conjuntivas**: múltiples causas que juntas producen el efecto, pero ninguna por separado es suficiente.
 
 **Referencia:** https://www.ebsco.com/research-starters/religion-and-philosophy/causality
+
+---
 
 ### Confusiones Frecuentes al Identificar Causas
 

@@ -152,6 +152,7 @@ Paso 4: Revisar las ideas obtenidas y, de ser necesario, agregar causas aún no 
 
 Paso 5: Decidir sobre cuáles causas se va a actuar. Para ello se toma en consideración el punto anterior y lo factible que resulta corregir cada una de las causas más importantes.
 Paso 6: Preparar un plan de acción para cada una de las causas a ser investigadas o corregidas, de tal forma que determine las acciones que se deben realizar.
+
 ---
 
 ### b) Estrategias Cualitativas

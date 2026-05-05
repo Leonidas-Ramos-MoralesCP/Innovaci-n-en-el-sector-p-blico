@@ -26,7 +26,7 @@ Para que identifiquemos causalidad verdadera, deben cumplirse tres condiciones s
 
 **Referencia:** https://www.ebsco.com/research-starters/religion-and-philosophy/causality
 
-![Diagrama: Los tres elementos de la causalidad](media/image1.png)
+![Diagrama: Los tres elementos de la causalidad](media/image1.gif)
 
 ### Causas Necesarias y Causas Suficientes
 
@@ -102,7 +102,7 @@ Esta herramienta (adaptación del Laboratorio de Gobierno de Chile) simplifica e
 - ¿Cuál es el efecto directo?
 - ¿Cuál es la causa directa?
 
-![Ejemplo: Diagrama de causa-efecto para educación de baja calidad](media/image2.png)
+![Ejemplo: Diagrama de causa-efecto para educación de baja calidad](media/image2.gif)
 
 **Paso a paso:**
 
@@ -117,9 +117,9 @@ Esta herramienta (adaptación del Laboratorio de Gobierno de Chile) simplifica e
 
 Útil para obtener una perspectiva sistémica del problema. Evita buscar soluciones antes de cuestionarse sobre las verdaderas causas.
 
-![Ejemplo: Diagrama de Ishikawa para inseguridad, limpieza y caos vehicular en Lima](media/image4.png)
+![Ejemplo: Diagrama de Ishikawa para inseguridad, limpieza y caos vehicular en Lima](media/image4.gif)
 
-![Diagrama completado sobre inseguridad en Lima](media/image5.png)
+![Diagrama completado sobre inseguridad en Lima](media/image5.gif)
 
 ### b) Estrategias Cualitativas
 
@@ -217,7 +217,7 @@ Para este caso (un distrito específico), usa **case study con process tracing**
 
 Representa las causas y sus relaciones usando diagrama de causa-efecto o Ishikawa.
 
-![Diagrama de causas de violencia hacia adultos mayores en Independencia](media/image6.png)
+![Diagrama de causas de violencia hacia adultos mayores en Independencia](media/image6.gif)
 
 ---
 

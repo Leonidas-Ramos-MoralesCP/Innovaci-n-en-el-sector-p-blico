@@ -26,6 +26,8 @@ Para que identifiquemos causalidad verdadera, deben cumplirse tres condiciones s
 
 **Referencia:** https://www.ebsco.com/research-starters/religion-and-philosophy/causality
 
+En ese contexto es importante tres elementos de la causalidad: i) demostrar la existencia del evento; ii) demostrar la existencia de la relación conducente; y, iii) demostrar que la causa se sucede antes que el efecto. Son tres actividades que deben realizarse conjuntamente
+
 ![Diagrama: Los tres elementos de la causalidad](imagen1.png)
 
 ### Causas Necesarias y Causas Suficientes
@@ -102,36 +104,51 @@ Esta herramienta (adaptación del Laboratorio de Gobierno de Chile) simplifica e
 - ¿Cuál es el efecto directo?
 - ¿Cuál es la causa directa?
 
+Bajo la misma lógica del Diagrama de Ishikawa, facilita llegar a las razones de fondo de un problema público.
+En la gráfica, se identificó como problema central: Educación de baja calidad. Se identificaron las causas potenciales y se agruparon por similitud.  De este modo, se puede visualizar gráficamente la diversidad de causas y, por tanto, decidir cuál de ellas abordar.
+
 ![Diagrama: Los tres elementos de la causalidad](imagen2.png)
 
-**Paso a paso:**
-
-1. **Especificar el problema** a analizar (debe estar delimitado)
-2. **Buscar todas las causas probables** sin discriminar inicialmente
-3. **Agrupar por afinidad** y representar en el diagrama
-4. **Revisar y agregar** causas faltantes; luego votar para priorizar (5 puntos a la más importante, 3 a la segunda, 1 a la tercera)
-5. **Seleccionar causas** a investigar considerando importancia y factibilidad
-6. **Preparar plan de acción** para cada causa
+Recuerde que, para encontrar una buena solución, deben ir a la causa raíz del problema, de lo contrario el problema volverá a reaparecer. Si desea poner en práctica esta herramienta, siga los siguientes pasos:
 
 ![Diagrama: Los tres elementos de la causalidad](imagen3.png)
 
 #### Diagrama de Ishikawa
 
-Útil para obtener una perspectiva sistémica del problema. Evita buscar soluciones antes de cuestionarse sobre las verdaderas causas.
+¿Estás buscando una herramienta gráfica que te permita relacionar un problema o efecto con los factores o causas que posiblemente lo generan? ¡El Diagrama de Ishikawa es el indicado! 
+Euna herramienta útil, sobre todo, si estás iniciando el proceso de comprensión de un problema público. Te facilitará una perspectiva más sistémica del problema.
+
+¡Recuerda! Este diagrama te impulsará a buscar las diferentes causas que afecten el problema bajo análisis y, de esta forma, se evita el error de buscar de manera directa las soluciones sin cuestionar cuáles son las verdaderas causas. 
+
 
 ![Ejemplo: Diagrama de Ishikawa para inseguridad, limpieza y caos vehicular en Lima](imagen4.png)
 
+En la gráfica, se parte de un problema público general como lo es la Inseguridad, limpieza y caos vehicular en Lima. Se identificaron las causas potenciales y se agruparon por similitud.  De este modo, se puede visualizar gráficamente la diversidad de causas y, por tanto, decidir cuál de ellas abordar.
+
 ![Diagrama completado sobre inseguridad en Lima](imagen5.png)
+
+**Paso a paso:**
+
+El paso a paso
+Paso 1: Especificar el problema a analizar. Se recomienda que sea un problema importante y, de ser posible, que ya esté delimitado.
+
+Paso 2: Buscar todas las probables causas que pueden tener algún efecto sobre el problema. El objetivo es generar las posibles causas y no discutir cuáles son más importantes.
+
+Paso 3: Generar una lista de las posibles causas y agruparlas por afinidad. Represéntelas en el diagrama, considere que para grupo corresponderá una rama principal del diagrama y asignar un título representativo.
+
+Paso 4: Revisar las ideas obtenidas y, de ser necesario, agregar causas aún no consideradas. Posteriormente, decidir cuáles son las más importantes mediante diálogo y discusión respetuosa. Puede ayudarse una votación para la que asigna 5 puntos a la causa que considere más importante, 3 a la que le sigue y 1 a la tercera en importancia. Sume los puntos y enfóquese en las causas de mayor puntaje.
+
+Paso 5: Decidir sobre cuáles causas se va a actuar. Para ello se toma en consideración el punto anterior y lo factible que resulta corregir cada una de las causas más importantes.
+Paso 6: Preparar un plan de acción para cada una de las causas a ser investigadas o corregidas, de tal forma que determine las acciones que se deben realizar.
 
 ### b) Estrategias Cualitativas
 
 **Para 1 caso:** Usa **Estudio de caso con process tracing**
 
-Este método reconstruye la cadena causal eslabón a eslabón, conectando cada causa con el problema público a través de información cualitativa.
+Este método consiste en realizar un esfuerzo para levantar información de forma cualitativa y tratar de reconstruir la cadena causal que une las diferentes causas con el problema público. En ese sentido por ejemplo tienes tres causas del problema público. La idea es recolectar información para conectar cada una de esas causas, eslabón tras eslabón, con el problema público.
+En particular, el process tracing puede “arribar a inferencias causales sólidas […] produciendo una narrativa que articula hipótesis y mecanismos causales para explicar resultados de interés” (Bril-Mascarenhas, Maillet y Mayaux, 2017: 659). 
 
-*Según Bril-Mascarenhas, Maillet y Mayaux (2017):* "El process tracing arriba a inferencias causales sólidas, produciendo una narrativa que articula hipótesis y mecanismos causales para explicar resultados de interés."
-
-**Referencia:** https://dialnet.unirioja.es/descarga/articulo/9649577.pdf
+https://dialnet.unirioja.es/descarga/articulo/9649577.pdf
 
 **Ejemplo:** Tienes como problema público el alto nivel de residuos sólidos de construcción (desmonte) desperdigados en avenidas principales del distrito de Comas entre 2024-2025. Identificas cuatro causas necesarias:
 

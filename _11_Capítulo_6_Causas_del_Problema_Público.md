@@ -24,9 +24,9 @@ Para que identifiquemos causalidad verdadera, deben cumplirse tres condiciones s
 2. **Relación conducente**: Debe haber una conexión especial de causa-efecto: la causa crea o genera el efecto, no solo lo acompaña.
 3. **Anterioridad temporal**: La causa siempre debe ocurrir antes que el efecto.
 
-**Referencia:** https://www.ebsco.com/research-starters/religion-and-philosophy/causality
-
 En ese contexto es importante identificar los tres elementos de la causalidad: i) demostrar la existencia de los eventos; ii) demostrar la existencia de la relación conducente; y, iii) demostrar que la causa se sucede antes que el efecto. 
+
+**Referencia:** https://www.ebsco.com/research-starters/religion-and-philosophy/causality
 
 ![Diagrama: Los tres elementos de la causalidad](imagen1.png)
 
@@ -36,15 +36,15 @@ Una distinción crítica al identificar causas es entender si son **necesarias**
 
 **Causa Necesaria:** Es aquella sin la cual el problema no ocurre. Sin embargo, su presencia no garantiza el efecto. 
 
-*Ejemplo:* Disparar un arma es necesario para que una bala alcance un blanco, pero disparar no garantiza que lo haga (podría errar).
+*Ejemplo:* Disparar un arma es necesario para que una bala alcance un blanco, pero disparar no garantiza que lo haga (podría errar). Así podemos tener un problema público pero para este aparezca se hace necesario que existan dos causas en conjunto. Ninguno por si solo produce el problema. 
 
-**Referencia:** https://www.ebsco.com/research-starters/religion-and-philosophy/causality
-
-**Causa Suficiente:** Es aquella que por sí sola genera el efecto. Basta que ocurra para que el problema exista.
+**Causa Suficiente:** Es aquella que por sí sola genera el efecto (el problema público). Basta que ocurra para que el problema exista.
 
 *Ejemplo:* Si una bala salió disparada del arma, entonces se apretó el gatillo.
 
 **En problemas públicos**, frecuentemente encontramos **causas conjuntivas**: múltiples causas que juntas producen el efecto, pero ninguna por separado es suficiente.
+
+**Referencia:** https://www.ebsco.com/research-starters/religion-and-philosophy/causality
 
 ### Confusiones Frecuentes al Identificar Causas
 
@@ -63,6 +63,12 @@ Dos eventos pueden ocurrir simultáneamente o estar relacionados sin relación c
 #### c) Advertencia sobre respuestas obvias
 
 En mi experiencia como docente, los estudiantes frecuentemente identifican como causas: *"Falta de presupuesto"*, *"Falta de capacitación"* o *"Falta de personal"*. Si bien estas pueden ser causas en algunos casos, **no son la explicación universal** para todos los problemas públicos en Perú. Es necesario verificar empíricamente qué causa realmente el problema que analizas.
+
+#### d) Cometer tautologías causales
+
+Esto se comete cuando se explica un problema público planteando como causa al mismo problema público o parte de él. 
+
+*Ejemplo:* Por ejemplo, tienes como problema la inorportunidad en la entrega de los alimentos del programa social a los escolares. Existe tautología causal cuando planteas como una de sus causas a la demora en la entrega. Si observas, "inoportunidad" y "demora" hacen referencia a lo mismo. 
 
 ---
 

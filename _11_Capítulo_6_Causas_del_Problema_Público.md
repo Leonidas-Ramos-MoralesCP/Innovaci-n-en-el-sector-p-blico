@@ -105,6 +105,8 @@ Existen al menos tres estrategias principales, cuya selección depende de:
 - Habilidades del equipo
 - Naturaleza del problema
 
+---
+
 ### a) Estrategias Visuales
 
 #### Diagrama de Causa-Efecto
@@ -122,14 +124,15 @@ En la gráfica, se identificó como problema central: Educación de baja calidad
 Recuerde que, para encontrar una buena solución, deben ir a la causa raíz del problema, de lo contrario el problema volverá a reaparecer. Si desea poner en práctica esta herramienta, siga los siguientes pasos:
 
 ![Diagrama: Los tres elementos de la causalidad](imagen3.png)
+---
 
 #### Diagrama de Ishikawa
 
 ¿Estás buscando una herramienta gráfica que te permita relacionar un problema o efecto con los factores o causas que posiblemente lo generan? ¡El Diagrama de Ishikawa es el indicado! 
-Euna herramienta útil, sobre todo, si estás iniciando el proceso de comprensión de un problema público. Te facilitará una perspectiva más sistémica del problema.
+
+Es una herramienta útil, sobre todo, si estás iniciando el proceso de comprensión de un problema público. Te facilitará una perspectiva más sistémica del problema.
 
 ¡Recuerda! Este diagrama te impulsará a buscar las diferentes causas que afecten el problema bajo análisis y, de esta forma, se evita el error de buscar de manera directa las soluciones sin cuestionar cuáles son las verdaderas causas. 
-
 
 ![Ejemplo: Diagrama de Ishikawa para inseguridad, limpieza y caos vehicular en Lima](imagen4.png)
 
@@ -139,7 +142,6 @@ En la gráfica, se parte de un problema público general como lo es la Insegurid
 
 **Paso a paso:**
 
-El paso a paso
 Paso 1: Especificar el problema a analizar. Se recomienda que sea un problema importante y, de ser posible, que ya esté delimitado.
 
 Paso 2: Buscar todas las probables causas que pueden tener algún efecto sobre el problema. El objetivo es generar las posibles causas y no discutir cuáles son más importantes.
@@ -150,12 +152,13 @@ Paso 4: Revisar las ideas obtenidas y, de ser necesario, agregar causas aún no 
 
 Paso 5: Decidir sobre cuáles causas se va a actuar. Para ello se toma en consideración el punto anterior y lo factible que resulta corregir cada una de las causas más importantes.
 Paso 6: Preparar un plan de acción para cada una de las causas a ser investigadas o corregidas, de tal forma que determine las acciones que se deben realizar.
+---
 
 ### b) Estrategias Cualitativas
 
 **Para 1 caso:** Usa **Estudio de caso con process tracing**
 
-Este método consiste en realizar un esfuerzo para levantar información de forma cualitativa y tratar de reconstruir la cadena causal que une las diferentes causas con el problema público. En ese sentido por ejemplo tienes tres causas del problema público. La idea es recolectar información para conectar cada una de esas causas, eslabón tras eslabón, con el problema público.
+Este método consiste en levantar información de forma cualitativa y tratar de reconstruir la cadena causal que une las diferentes causas con el problema público. En ese sentido por ejemplo tienes tres causas del problema público. La idea es recolectar información para conectar cada una de esas causas, eslabón tras eslabón, con el problema público.
 En particular, el process tracing puede “arribar a inferencias causales sólidas […] produciendo una narrativa que articula hipótesis y mecanismos causales para explicar resultados de interés” (Bril-Mascarenhas, Maillet y Mayaux, 2017: 659). 
 
 https://dialnet.unirioja.es/descarga/articulo/9649577.pdf
@@ -172,7 +175,7 @@ Con process tracing, reconstruyes cómo cada una de estas causas se conecta con 
 **Para más de 2 casos (hasta 10):** Usa **Método comparado**
 
 - **Sistema de máxima diferencia:** Compara territorios distintos con el mismo problema. ¿Por qué ocurre en ambos?
-- **Sistema de máxima similitud:** Compara territorios similares donde el problema ocurre en uno pero no en el otro. ¿Qué diferencia explica la brecha?
+- **Sistema de máxima similitud:** Compara territorios similares donde el problema ocurre en uno pero no en el otro. ¿Por qué la diferencia?
 
 **Referencia:** https://www.redalyc.org/pdf/7374/737481065007.pdf
 
@@ -201,18 +204,18 @@ Se aplican cuando tienes **muchos casos** (suficiente variabilidad). Las regresi
 ### Paso 2: Medir y Contextualizar
 
 - Cuantificar la magnitud (números, tasas)
-- Identificar población: tamaño, condiciones socioeconómicas
-- Mapear actores involucrados (familia, servicios de salud, municipalidad, policía)
+- Cuantificar otros elementos: tamaño de población y condiciones socioeconómicas
+- Caracterizar la perspectiva del adulto mayor y plantear la red de los actores involucrados (familia, servicios de salud, municipalidad, policía)
 
 ### Paso 3: Búsqueda Preliminar de Causas
 
-Combina tu experiencia, literatura académica y documentos del Estado/ONGs.
+Usa tu experiencia y busca en literatura académica y documentos del Estado/ONGs posibles causas.
 
 ### Paso 4: Validar Causas con Información Empírica
 
-Para este caso (un distrito específico), usa **case study con process tracing** para confirmar y reconstruir las cadenas causales.
+Para este caso (un distrito específico), usa **case study con process tracing** para confirmar y reconstruir las cadenas causales. Con ese objetivo levanta información con las herramientas señaladas en el toolbox. Apuesta para este curso por el uso de herramientas de recolección de información proveniente del internet. No inventes causas, utiliza toda la información a tu disposición para comprobar estas causas:
 
-**Causas identificadas:**
+**Causas identificadas: (asistido por IA)**
 
 1. **Estrés y sobrecarga del cuidador familiar**
    - El familiar cuida 24/7 sin apoyo ni remuneración

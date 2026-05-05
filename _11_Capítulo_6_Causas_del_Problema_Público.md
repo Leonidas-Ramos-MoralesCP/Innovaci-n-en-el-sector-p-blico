@@ -72,7 +72,7 @@ En mi experiencia como docente, los estudiantes frecuentemente identifican como 
 
 Esto se comete cuando se explica un problema público planteando como causa al mismo problema público o parte de él. 
 
-*Ejemplo:* Por ejemplo, tienes como problema la inorportunidad en la entrega de los alimentos del programa social a los escolares. Existe tautología causal cuando planteas como una de sus causas a la demora en la entrega. Si observas, "inoportunidad" y "demora" hacen referencia a lo mismo. 
+*Ejemplo:* Por ejemplo, tienes como problema la inorportunidad en la entrega de los alimentos de un programa social dirigido a escolares. Existe tautología causal cuando planteas como una de sus causas a la demora en la entrega. Si observas, "inoportunidad" y "demora" hacen referencia a lo mismo. 
 
 ---
 

@@ -14,13 +14,15 @@ Esta técnica se ocupa de la construcción de una narración detallada, basada e
 
 En lugar de pedirle a alguien que interprete números en bruto o gráficos densos por su cuenta, las historias presentan o introducen cantidades de información manejables de una manera clara y atractiva que realiza gran parte del trabajo analítico pesado. Esto hace que los conocimientos sean más accesibles para el público no técnico y respalda una toma de decisiones más sólida y segura. 
 
-(imagenn3.png)
+![Diagrama: Los tres elementos de la causalidad](imagenn3.png)
 
 ## ¿Cuál debería ser el efecto en el público?
 
 El mecanismo que desencadena la historia es interesante. Las historias que usualmente se comentan aquí tratan sobre personajes que enfrentan desafíos que por momentos parecen insuperables. Eso conecta con el público porque ha visto que él mismo o personas conocidas suyas han sufrido el mismo problema. Aquello permite que el público sienta emociones. El público debería responde a una buena historia sintiendo amenaza, pérdida, frustración, incertidumbre, culpa, miedo o impotencia. 
 
-Eso inmediatamente causa atención porque quiere saber de la historia de ese personaje. Una vez que se ha enganchado con la historia, puedes fácilmente entregarle argumentos, información y datos. Finalmente, en ese contexto puedes persuadirle de que existe un problema público, es decir que la situación no solo afecta a tu personaje, sino que es una situación extendida y preocupante, y que incluso lo has demostrado midiéndolo. 
+Eso inmediatamente causa atención porque quiere saber de la historia de ese personaje. Una vez que se ha enganchado con la historia, puedes fácilmente entregarle argumentos, información y datos. Finalmente, en ese contexto puedes persuadirle de que existe un problema público, es decir que la situación no solo afecta a tu personaje, sino que es una situación extendida y preocupante, y que incluso lo has demostrado midiéndolo.
+
+![Diagrama: Los tres elementos de la causalidad](imagenn4.png)
 
 ## La neurociencia de las historias
 
@@ -41,6 +43,8 @@ El datastorytelling en su parte analítica reúne datos, narrativa y visualizaci
 En ese marco no nos olvidemos que los datos deben ir acompañados de visualizaciones o gráficos que capten la atención. Se puede tener una excelente historia, excelentes argumentos, excelentes datos, pero visualizaciones o gráficos (tablas o figuras) de esos datos que hacen confundir al público. 
 
 Sin lugar a dudas, una historia es muy buena como herramienta para captar la atención, pero los datos presentados y su visualización deben estar alineados a esta historia, no generar confusión ni contradicción. 
+
+![Diagrama: Los tres elementos de la causalidad](imagenn1.png)
 
 ## ¿Cómo construir la historia?
 
@@ -70,7 +74,9 @@ Es necesario identificar la secuencia de eventos que vivirá tu personaje dentro
 
 En la narrativa no deben faltar los conflictos, que son los que mantienen la tensión del espectador y se convierten en la oportunidad, son "el corazón" que late en la historia. De esta manera se logrará "enganchar" al público, captando su atención y posibilitando que se identifiquen con la historia. En este caso, presentan momentos en que las cosas no salieron bien para el personaje. Los protagonistas intentan resolver una dificultad, pero el resultado no es el que planearon. En ese marco es importante señalar que el desafío que enfrenta el personaje es realmente complicado y complejo. Si es sencillo, no causa gran interés. En cambio, el conflicto debe ser elaborado y difícil, al punto de exigir la transformación del personaje para que sea superado. 
 
-Estas preguntas te pueden servir para la construir de historia: 
+Estas preguntas te pueden servir para la construir de historia:
+
+![Diagrama: Los tres elementos de la causalidad](imagenn2.png)
 
 ## ¿Cuáles son los soportes de la historia?
 

@@ -14,6 +14,8 @@ Esta técnica se ocupa de la construcción de una narración detallada, basada e
 
 En lugar de pedirle a alguien que interprete números en bruto o gráficos densos por su cuenta, las historias presentan o introducen cantidades de información manejables de una manera clara y atractiva que realiza gran parte del trabajo analítico pesado. Esto hace que los conocimientos sean más accesibles para el público no técnico y respalda una toma de decisiones más sólida y segura. 
 
+(imagenn3.png)
+
 ## ¿Cuál debería ser el efecto en el público?
 
 El mecanismo que desencadena la historia es interesante. Las historias que usualmente se comentan aquí tratan sobre personajes que enfrentan desafíos que por momentos parecen insuperables. Eso conecta con el público porque ha visto que él mismo o personas conocidas suyas han sufrido el mismo problema. Aquello permite que el público sienta emociones. El público debería responde a una buena historia sintiendo amenaza, pérdida, frustración, incertidumbre, culpa, miedo o impotencia. 
